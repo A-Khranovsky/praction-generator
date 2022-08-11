@@ -16,7 +16,9 @@ it left off the previous time.
 
 ## How to run
 * Clone the project.
-
+```angular2html
+composer update
+```
 ```angular2html
 docker-compose up -d
 ```
